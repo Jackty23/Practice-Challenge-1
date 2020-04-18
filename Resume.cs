@@ -1,1 +1,0 @@
-p.groove {border-style: groove;}
